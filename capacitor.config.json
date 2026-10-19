@@ -1,0 +1,10 @@
+{
+  "appId": "com.pewtify.app",
+  "appName": "PewTify",
+  "webDir": "www",
+  "backgroundColor": "#06070c",
+  "android": {
+    "backgroundColor": "#06070c",
+    "allowMixedContent": false
+  }
+}
